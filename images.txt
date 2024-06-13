@@ -1,2 +1,2 @@
-victoriametrics/vmagent:v1.101.0 --platform=linux/arm64
-victoriametrics/vmagent:v1.101.0 --platform=linux/amd64
+--platform=linux/arm64 victoriametrics/vmagent:v1.101.0 
+--platform=linux/amd64 victoriametrics/vmagent:v1.101.0
